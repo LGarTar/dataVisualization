@@ -1,0 +1,7 @@
+#title {
+    align-content: center;
+    margin-top: 10px;
+}
+html body.chart-type-column-grouped div#fl-layout-wrapper-outer {
+    background-color: black;
+}
